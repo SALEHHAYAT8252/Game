@@ -4,5 +4,5 @@ This is Simon says game repository.
 # Student 
 SaleH Hayat
 
-#Teacher
+#T eacher
 Rajni
