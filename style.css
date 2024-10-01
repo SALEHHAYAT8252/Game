@@ -3,4 +3,7 @@ p{
     font-size: 3rem;
     width:100px;
     height: 200px;
+    
+    font: 100rem;
+    font-weight: 400;
 }
