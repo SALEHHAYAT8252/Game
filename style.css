@@ -6,9 +6,16 @@ p{
 
     font: 100rem;
     font-weight: 400;
+<<<<<<< HEAD
 
 }
 
 p::after{
     content: 'Hello';
+=======
+}
+
+p:before{
+    content:'World';
+>>>>>>> feature
 }
